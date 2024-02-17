@@ -1,15 +1,17 @@
 # awesome-model-transferability-estimation
-A collection of model transferability estimation methods.
+<img src="overview-4.png" width="800"/>
+A collection of model transferability estimation methods. \\
 The collection is still in progress.
 
 ## Source-independent
 
+<img src="MT.png" width="800"/>
 #### 2016
 - **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
 
 #### 2019
 - **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
-- **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
+- **[H-Score]** An information theoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
 - **[MODEL2VEC]** TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
 
 #### 2020
@@ -62,6 +64,7 @@ The collection is still in progress.
 
 ## Source-dependent
 
+<img src="DT.png" width="800"/>
 #### 2019
 - Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning [[CVPR]](https://arxiv.org/pdf/1904.11740.pdf)
 - **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)

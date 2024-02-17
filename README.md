@@ -11,7 +11,6 @@ The collection is still in progress.
 - **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
 - **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
 - **[MODEL2VEC]** TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
-- Service Metric Prediction in Clouds using Transfer Learning [[DiVA]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1368298&dswid=3495)
 
 #### 2020
 - **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
@@ -34,11 +33,9 @@ The collection is still in progress.
 - Pitfalls in Measuring Neural Transferability [[NeurIPSW]](https://openreview.net/forum?id=KWUA0n6Dpv&noteId=x7jdD7Ppug)
 - Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs [[JMLR]](https://www.jmlr.org/papers/volume23/21-1251/21-1251.pdf)
 - PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks [[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940244.pdf) [[Codes]](https://github.com/google-research/pactran_metrics)
-- Which Model to Transfer? Finding the Needle in the Growing Haystack [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Renggli_Which_Model_To_Transfer_Finding_the_Needle_in_the_Growing_CVPR_2022_paper.html)
 - Evidence > Intuition: Transferability Estimation for Encoder Selection [[EMNLP]](https://arxiv.org/abs/2210.11255)
 - Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_17)
 - Efficient Semantic Segmentation Backbone Evaluation for Unmanned Surface Vehicles based on Likelihood Distribution Estimation [[MSN]](https://ieeexplore.ieee.org/abstract/document/10076662)
-- ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cd305fdee96836d5cc1de94577d71b61-Abstract-Conference.html)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f308b5f207348484552997c536375654-Abstract-Conference.html)
 
 #### 2023
@@ -52,16 +49,15 @@ The collection is still in progress.
 - Exploring Model Transferability through the Lens of Potential Energy[[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Exploring_Model_Transferability_through_the_Lens_of_Potential_Energy_ICCV_2023_paper.html)
 - Unleashing the power of Neural Collapse for Transferability Estimation [[ArXiv]](https://arxiv.org/abs/2310.05754)
 - Foundation Model is Efficient Multimodal Mltitask Model Selector [[ArXiv]](https://arxiv.org/abs/2308.06262)
-- **?**[multi-model] Towards Robust Multi-Modal Reasoning via Model Selection [[ArXiv]](https://arxiv.org/abs/2310.08446)
+- Towards Robust Multi-Modal Reasoning via Model Selection [[ArXiv]](https://arxiv.org/abs/2310.08446)
 - Graph-based fine-grained model selection for multi-source domain [[PAA]](https://link.springer.com/article/10.1007/s10044-023-01176-6)
 - Guided Recommendation for Model Fine-Tuning [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
 - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How [[ArXiv]](https://arxiv.org/abs/2306.03828)
 - Estimating the Transfer Learning Ability of a Deep Neural Networks by Means of Representations [[NCMLCR]](https://link.springer.com/chapter/10.1007/978-3-031-44865-2_50)
-- **?** Source Selection based on Diversity for Machine Learning [[Patent ]](https://www.freepatentsonline.com/20230316134.pdf)
 - Efficient Prediction of Model Transferability in Semantic Segmentation Tasks [[ICIP]](https://ieeexplore.ieee.org/abstract/document/10222912)
-- **[Study]** The Performance of Transferability Metrics Does Not Translate to Medical Tasks [[MICCAI workshop]](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_11)
-- How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey [[ArXiv]](https://arxiv.org/pdf/2312.04775.pdf)(https://openaccess.thecvf.com/content/ICCV2023/html/B_Building_a_Winning_Team_Selecting_Source_Model_Ensembles_using_a_ICCV_2023_paper.html)
-- [Guided recommendation for model fine-tuning](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
+- The Performance of Transferability Metrics Does Not Translate to Medical Tasks [[MICCAI workshop]](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_11)
+- How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey [[ArXiv]](https://arxiv.org/pdf/2312.04775.pdf)
+- Guided recommendation for model fine-tuning [[CVPR]](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
 
 
 ## Source-dependent
@@ -88,5 +84,5 @@ The collection is still in progress.
 -  Simple Transferability Estimation for Regression Tasks [[UAI]](https://proceedings.mlr.press/v216/nguyen23a.html)
 - [Analysis of Task Transferability in Large Pre-trained Classifiers ](https://openreview.net/forum?id=HCMmC8DETj)
 - To transfer or not transfer: Unified transferability metric and analysis [[ArXiv]](https://arxiv.org/abs/2305.07741)
-- Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach [[ICCV]](https://arxiv.org/abs/2309.02429)
+- Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/B_Building_a_Winning_Team_Selecting_Source_Model_Ensembles_using_a_ICCV_2023_paper.html)
 - How to Estimate Model Transferability of Pre-Trained Speech Models? [[Interspeech]](https://arxiv.org/abs/2306.01015)

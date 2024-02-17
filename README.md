@@ -1,11 +1,11 @@
 # awesome-model-transferability-estimation
-<img src="overview-4.png" width="800"/>
+<img src="overview-4.png" width="300"/>
 A collection of model transferability estimation methods. \\
 The collection is still in progress.
 
 ## Source-independent
 
-<img src="MT.png" width="800"/>
+<img src="MT.png" width="400"/>
 #### 2016
 - **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
 
@@ -64,7 +64,7 @@ The collection is still in progress.
 
 ## Source-dependent
 
-<img src="DT.png" width="800"/>
+<img src="DT.png" width="400"/>
 #### 2019
 - Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning [[CVPR]](https://arxiv.org/pdf/1904.11740.pdf)
 - **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)

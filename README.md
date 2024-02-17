@@ -1,5 +1,7 @@
 # awesome-model-transferability-estimation
 A collection of model transferability estimation methods.
+The collection is still in progress.
+
 ## Source-independent
 
 #### 2016

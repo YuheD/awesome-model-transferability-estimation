@@ -1,7 +1,8 @@
 # awesome-model-transferability-estimation
 <img src="overview-4.png" width="300"/>
-A collection of model transferability estimation methods. \\
-The collection is still in progress.
+A collection of model transferability estimation methods. 
+
+This repo is still in progress.
 
 ## Source-independent
 

@@ -8,21 +8,21 @@ The collection is still in progress.
 <img src="MT.png" width="400"/>
 
 #### 2016
-- **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
+- Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
 
 #### 2019
-- **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
-- **[H-Score]** An information theoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
-- **[MODEL2VEC]** TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
+- Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
+- An information theoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
+- TASK2VEC: Task Embedding for Meta-Learning [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)
 
 #### 2020
-- **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
+- LEEP: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
 - Source Model Selection for Deep Learning in the Time Series Domain [[IEEE Access]](https://ieeexplore.ieee.org/document/8949507)
 - Ranking and rejecting of pre-trained deep neural networks in transfer learning based on separation index [[ArXiv]](https://arxiv.org/abs/2012.13717)
 
 #### 2021
-- **[NLeep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
-- **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](https://arxiv.org/abs/2102.11005) [[PyTorch]](https://github.com/thuml/LogME)
+-  Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
+- LogME: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](https://arxiv.org/abs/2102.11005) [[PyTorch]](https://github.com/thuml/LogME)
 - Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[PyTorch]](https://github.com/dbolya/parc)
 - A linearized framework and a new benchmark for model selection for fine-tuning [[ArXiv]](https://arxiv.org/pdf/2102.00084.pdf)
 
@@ -31,7 +31,7 @@ The collection is still in progress.
 - Frustratingly Easy Transferability Estimation [[ICML]](https://proceedings.mlr.press/v162/huang22d.html) [[Slides]](https://icml.cc/media/icml-2022/Slides/17386.pdf)
 - Transferability Estimation Using Bhattacharyya Class Separability [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Pandy_Transferability_Estimation_Using_Bhattacharyya_Class_Separability_CVPR_2022_paper.html)
 - Transferability Metrics for Selecting Source Model Ensembles [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)
-- **[Study]** How stable are Transferability Metrics evaluations? [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
+- How stable are Transferability Metrics evaluations? [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://openreview.net/forum?id=XY5g3mkVge) [[Codes]](https://github.com/candytalking/SynLearn.)
 - Pitfalls in Measuring Neural Transferability [[NeurIPSW]](https://openreview.net/forum?id=KWUA0n6Dpv&noteId=x7jdD7Ppug)
 - Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs [[JMLR]](https://www.jmlr.org/papers/volume23/21-1251/21-1251.pdf)
@@ -51,7 +51,7 @@ The collection is still in progress.
 - How Far Pre-trained Models Are from Neural Collapse on the Target Dataset Informs their Transferability [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_How_Far_Pre-trained_Models_Are_from_Neural_Collapse_on_the_ICCV_2023_paper.html)
 - Exploring Model Transferability through the Lens of Potential Energy[[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Exploring_Model_Transferability_through_the_Lens_of_Potential_Energy_ICCV_2023_paper.html)
 - Unleashing the power of Neural Collapse for Transferability Estimation [[ArXiv]](https://arxiv.org/abs/2310.05754)
-- Foundation Model is Efficient Multimodal Mltitask Model Selector [[ArXiv]](https://arxiv.org/abs/2308.06262)
+- Foundation Model is Efficient Multimodal Multitask Model Selector [[ArXiv]](https://arxiv.org/abs/2308.06262)
 - Towards Robust Multi-Modal Reasoning via Model Selection [[ArXiv]](https://arxiv.org/abs/2310.08446)
 - Graph-based fine-grained model selection for multi-source domain [[PAA]](https://link.springer.com/article/10.1007/s10044-023-01176-6)
 - Guided Recommendation for Model Fine-Tuning [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Guided_Recommendation_for_Model_Fine-Tuning_CVPR_2023_paper.html)
@@ -69,7 +69,7 @@ The collection is still in progress.
 
 #### 2019
 - Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning [[CVPR]](https://arxiv.org/pdf/1904.11740.pdf)
-- **[RKME]** Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
+- Model reuse with reduced kernel mean embedding specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
 
 #### 2020
 - Duality diagram similarity: a generic framework for initialization selection in task transfer learning [[ECCV]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710494.pdf)

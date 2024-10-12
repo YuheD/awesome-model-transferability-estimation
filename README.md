@@ -72,7 +72,7 @@ This repo is still in progress.
 
 <img src="DT.png" width="400"/>
 #### 2023
-- Identifying Useful Learnwares for Heterogeneous Label Spaces [ICML](https://proceedings.mlr.press/v202/guo23l/guo23l.pdf)
+- Identifying Useful Learnwares for Heterogeneous Label Spaces [[ICML]](https://proceedings.mlr.press/v202/guo23l/guo23l.pdf)
 -  Simple Transferability Estimation for Regression Tasks [[UAI]](https://proceedings.mlr.press/v216/nguyen23a.html)
 - [Analysis of Task Transferability in Large Pre-trained Classifiers ](https://openreview.net/forum?id=HCMmC8DETj)
 - To transfer or not transfer: Unified transferability metric and analysis [[ArXiv]](https://arxiv.org/abs/2305.07741)
